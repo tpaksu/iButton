@@ -1,0 +1,43 @@
+[PROJECT]
+Target=deneme.HEX
+Development_Mode=
+Processor=0x6628
+ToolSuite=CCS
+
+[Directories]
+Include=C:\Program Files\PICC\devices\;C:\Program Files\PICC\dr
+Library=
+LinkerScript=
+
+[Target Data]
+FileList=C:\Documents and Settings\Trevor LeMorte\Desktop\Elektronik\ibutton þifreli kilit\deneme.c
+BuildTool=C-COMPILER
+OptionString=+FM
+AdditionalOptionString=
+BuildRequired=1
+
+[deneme.c]
+Type=4
+Path=
+FileList=
+BuildTool=
+OptionString=
+AdditionalOptionString=
+
+[mru-list]
+1=deneme.c
+
+[Windows]
+0=0000 deneme.c 0 0 796 451 3 0
+
+[Opened Files]
+1=C:\Documents and Settings\Trevor LeMorte\Desktop\PIC Projelerim\bitmiþ projeler\iButton Kapý Kilidi\deneme.c
+2=
+3=C:\Program Files\PICC\drivers\LCD.C
+4=deneme.h
+5=
+6=
+7=
+[Units]
+Count=1
+1=C:\Documents and Settings\Trevor LeMorte\Desktop\Elektronik\ibutton þifreli kilit\deneme.c (main)

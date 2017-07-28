@@ -1,0 +1,7 @@
+Error[71]   C:\Documents and Settings\Trevor LeMorte\Desktop\PIC Projelerim\bitmiþ projeler\iButton Kapý Kilidi\deneme.c 319 : Out of ROM, A segment or the program is too large    main
+  Seg 00004-007FF, 0227 left, need 0257
+   0000
+  Seg 00000-00003, 0000 left, need 0257
+   0000
+
+      1 Errors,  0 Warnings.
